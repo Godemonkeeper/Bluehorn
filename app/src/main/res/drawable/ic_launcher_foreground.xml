@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Megaphone cone -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,47 L66,33 L66,75 L34,61 Z" />
+    <!-- Megaphone mouth rim -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M66,31 L72,31 L72,77 L66,77 Z" />
+    <!-- Handle -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M36,61 L44,61 L41,77 L33,77 Z" />
+    <!-- Back cap -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M28,47 L34,47 L34,61 L28,61 Z" />
+    <!-- Sound waves -->
+    <path
+        android:strokeColor="#F97316"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M78,44 Q84,54 78,64" />
+    <path
+        android:strokeColor="#FB923C"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M85,38 Q94,54 85,70" />
+</vector>

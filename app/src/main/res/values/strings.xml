@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlueHorn 蓝牙扩音</string>
+    <string name="notification_channel_name">实时扩音服务</string>
+    <string name="notification_channel_desc">保持手机麦克风到蓝牙音响的实时音频传输</string>
+    <string name="notification_title">蓝牙扩音运行中</string>
+    <string name="notification_stop_action">停止扩音</string>
+</resources>
